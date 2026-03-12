@@ -11,14 +11,14 @@ class ComposerStaticInit8ad880dfafb8f9da34cb2b72ed68c3ba
     );
 
     public static $prefixLengthsPsr4 = array (
-        'N' => 
+        'N' =>
         array (
             'NeveFSE\\' => 8,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'NeveFSE\\' => 
+        'NeveFSE\\' =>
         array (
             0 => __DIR__ . '/../..' . '/inc',
         ),
