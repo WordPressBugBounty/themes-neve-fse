@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2026-03-12T07:33:38+00:00\n"
+"POT-Creation-Date: 2026-03-31T11:22:18+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: neve-fse\n"
@@ -132,10 +132,14 @@ msgstr ""
 msgid "Install & Activate %s"
 msgstr ""
 
-#. translators: %1$s - plugin namce, %2$s - HTML tag, %3$s - discount, %4$s - HTML tag, %5$s - company name.
-#: inc/Admin.php:577
+#. translators: 1. Number of free licenses, 2. The price of the product.
+#: inc/Admin.php:578
 #, php-format
-msgid "Enhance %1$s with %2$s– up to %3$s OFF in our biggest sale of the year. Limited time only."
+msgid "You’re using Neve FSE, and the team behind it is celebrating Black Friday by giving away %1$s licences of Otter Pro. A powerful block collection worth %2$s, with advanced blocks, custom CSS, animations, and WooCommerce integration. Claim yours before they run out."
+msgstr ""
+
+#: inc/Admin.php:579
+msgid "Get Otter Pro free"
 msgstr ""
 
 #: inc/Block_Patterns.php:62
